@@ -27,7 +27,7 @@ Known Bugs
 1. No known bugs
 
 Technologies used
-1.SQL
+1. SQL
 2. Python
 3. Jupyter Notebook
 4. Pandas
